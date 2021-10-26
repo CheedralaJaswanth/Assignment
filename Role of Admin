@@ -1,0 +1,5 @@
+• The role of the admin is to add new employee by entering his personal details and provides the employee with employeeID and password to the user so that he can access the application.
+• Admin can view the GPS location of the employee by entering Employee Identity Number as well as Date. (Use Google maps to display the various locations of an employee)
+• Admin can check the salary of the particular employee by entering date and employee ID.
+• Admin can view latitude and longitude of the GPS location sent by the employee.
+• Admin can change the password of the employee.
